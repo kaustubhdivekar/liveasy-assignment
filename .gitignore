@@ -1,0 +1,41 @@
+# Build artifacts
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+*.project
+
+# Log files
+*.log
+
+# Maven backup files
+*.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Temporary files
+*.tmp
+*.project
+.classpath
+.settings/
+.factorypath
+.apt_generated
+.sass-cache
+.bower_components
+.gradle
+.DS_Store
+*.swp
+*.swo
+*.fuse_hidden*
